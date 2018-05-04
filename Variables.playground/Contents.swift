@@ -10,3 +10,5 @@ let ultimateFavoriteCharacter = "Arya Stark"
 print(ultimateFavoriteCharacter)
 
 ultimateFavoriteCharacter = "Daenerys Targaryen"
+
+print(favoriteCharacter)
